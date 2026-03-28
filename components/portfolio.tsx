@@ -13,7 +13,7 @@ interface Project {
 export function Portfolio() {
   const projects: Project[] = [
     {
-      title: 'BuyBee',
+      title: 'World Fantasy League',
       description: 'Full Stack World Football Fantasy League. Built with Next.js, TypeScript, Prisma, and Tailwind CSS. Features user authentication, team management, and real-time updates integrated with Socket.io stripe payment gateway via stripe webhook.',
       url: 'https://world-fantasy-league-wfl-iota.vercel.app/',
       type: 'Sports Fantasy League',
