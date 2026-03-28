@@ -14,9 +14,9 @@ export function Portfolio() {
   const projects: Project[] = [
     {
       title: 'BuyBee',
-      description: 'Full-featured e-commerce platform with product catalog, shopping cart, and payment integration',
-      url: 'https://buybeepk.com/',
-      type: 'E-Commerce',
+      description: 'Full Stack World Football Fantasy League. Built with Next.js, TypeScript, Prisma, and Tailwind CSS. Features user authentication, team management, and real-time updates integrated with Socket.io stripe payment gateway via stripe webhook.',
+      url: 'https://world-fantasy-league-wfl-iota.vercel.app/',
+      type: 'Sports Fantasy League',
       github: '',
     },
     {
